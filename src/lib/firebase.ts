@@ -4,7 +4,6 @@ import { initializeFirestore, doc, enableIndexedDbPersistence } from 'firebase/f
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAeVTp6QiGtKpr0-Mkp7IhdDaIqmkeOGME",
   authDomain: "hotel-managemnet-726a2.firebaseapp.com",
   projectId: "hotel-managemnet-726a2",
   storageBucket: "hotel-managemnet-726a2.firebasestorage.app",
